@@ -1,0 +1,7 @@
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+merged-html-report
+report1
+report2
